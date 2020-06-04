@@ -11,3 +11,10 @@ Welcome screen<br />
 <br />
 Chat screen example<br />
 ![Chat screen](https://github.com/krishan-kant/chat-roomies/blob/master/public/img/Screenshot_20200604_140530.png)
+<br />
+<br />
+Start chatting now - https://chat-roomies.herokuapp.com/<br />
+<br />
+Issues :
+  1. Slow loading of the chat page initially.
+  2. When two tabs in the same window are open then the app crashes. The problem does not persist if two seperate windows are used.
